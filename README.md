@@ -1,15 +1,47 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ha Do
-=============================================================================================================================
+<div align="center">
+  <img src="https://github.com/AzmSurov/AzmSurov/raw/master/Rainbow.gif" width="100%" />
+</div>
 
-Data Analyst | Financial Analyst
---------------------------------
+<h1 align="center">Hi there 👋, I'm Ha Do <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 
-I love investment (both Equity & Option) and financial modeling. Since I got introduced to the first course SQL and Power BI, I quickly got into Data Analyst. I had experience on SQL, Python, BI Tools (Alteryx, Tableau), and ML. I am working on other Engineer tools, such as data architect, data orchestration, and pipeline management ( Spark, Hadoop,etc)
+<p align="center">
+  <a href="mailto:hado1802@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ha-van-do/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/hado1802"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+</p>
 
-* 🌍  I'm based in Dallas, TX, USA
-* ✉️  You can contact me at [havando1802@gmail.com](mailto:havando1802@gmail.com)
-* 🧠  I'm learning Python, Machine Learning, LLM, Spark, Hadoop
-* ⚡  Big fan of soccer
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=25&pause=500&color=1AAB40&width=800&lines=Revenue+Analytics+%7C+BI+Engineer+%7C+Data+Analyst;Python+%7C+SQL+%7C+Power+BI+%7C+Airflow+%7C+AWS;Always+Building+and+Solving+with+Data"/>
+</p>
+
+---
+
+🎓 TCU Alumnus (Finance & Information Systems)  
+🌍 Passionate about Business Intelligence and Revenue Analytics  
+📊 Turning complex datasets into real-time insights that drive decisions  
+✈️ Industry experience: Airlines · Manufacturing · Real Estate  
+
+
+
+## 💼 Experience  
+**Planning & Revenue Systems Analyst** @ Allegiant – *Commercial Data Science & Analytics*
+**Business Intelligence Engineer Intern** @ Southwest Airlines – *Real Estate Analytics*  
+**AI Implementation Specialist (Capstone)** @ Alcon – *Competitive Intelligence*  
+**Technology Consultant Intern** @ Corning Inc. – *Global Supply Chain8  
+**Investment Analyst Intern** @ Savills – *Real Estate Investment*  
+
+
+## ⚙️ Technical Skills  
+**Languages**: Python, SQL, VBA  
+**Databases**: PostgreSQL, MySQL, SQL Server  
+**Data Warehousing**: Redshift, BigQuery  
+**Cloud Platforms**: AWS, GCP  
+**Orchestration**: Apache Airflow  
+**BI Tools**: Power BI, Tableau, Alteryx, Excel  
+**Machine Learning**: Regression, Clustering, Time-Series Forecasting  
+**Financial Modeling**: Monte Carlo, DCF, Black-Scholes, Option Pricing Models
+
+
 
 ### Skills
 
@@ -19,6 +51,17 @@ I love investment (both Equity & Option) and financial modeling. Since I got int
 </p>
 
 
-### Socials
 
-<p align="left"> <a href="https://www.github.com/HaDo1802" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/ha-van-do/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+## 📈 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=HaDo1802&theme=aura&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=HaDo1802&theme=aura&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=HaDo1802&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
+## 📫 Connect with Me
+
+```yaml
+Email: hado1802@gmail.com
+Linkedin: linkedin.com/in/HaDo1802
+
