@@ -22,13 +22,13 @@
 ✈️ Industry experience: Airlines · Manufacturing · Real Estate  
 
 
+## 💼 Experience
 
-## 💼 Experience  
-**Planning & Revenue Systems Analyst** @ Allegiant – *Commercial Data Science & Analytics*
+**Planning & Revenue Systems Analyst** @ Allegiant – *Commercial Data Science & Analytics*  
 **Business Intelligence Engineer Intern** @ Southwest Airlines – *Real Estate Analytics*  
 **AI Implementation Specialist (Capstone)** @ Alcon – *Competitive Intelligence*  
-**Technology Consultant Intern** @ Corning Inc. – *Global Supply Chain8  
-**Investment Analyst Intern** @ Savills – *Real Estate Investment*  
+**Technology Consultant Intern** @ Corning Inc. – *Global Supply Chain*  
+**Investment Analyst Intern** @ Savills – *Real Estate Investment*
 
 
 ## ⚙️ Technical Skills  
