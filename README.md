@@ -18,7 +18,7 @@
 
 <blockquote>
   <p align="center">
-    <em>"The goal is not to read a book, the goal is to become a reader."</em>
+    <strong><em><span style="font-size: 1.35em;">"The goal is not to read a book, the goal is to become a reader."</span></em></strong>
   </p>
   <p align="center">James Clear</p>
 </blockquote>
@@ -45,9 +45,9 @@
 
 ## 📈 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=HaDo1802&theme=aura&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=HaDo1802&theme=aura&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HaDo1802&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=HaDo1802&theme=dark&hide_border=true&card_width=820" alt="GitHub streak stats" />
+</p>
 
 
 ## 📫 Connect with Me
