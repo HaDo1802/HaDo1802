@@ -11,44 +11,37 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=25&pause=500&color=1AAB40&width=800&lines=Revenue+Analytics+%7C+BI+Engineer+%7C+Data+Analyst;Python+%7C+SQL+%7C+Power+BI+%7C+Airflow+%7C+AWS;Always+Building+and+Solving+with+Data"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=25&duration=1&pause=999999&color=1AAB40&width=800&repeat=false&lines=Analytics+Engineer+%7C+Revenue+Analytics+%7C+BI+Engineer"/>
 </p>
 
 ---
 
-🎓 TCU Alumnus (Finance & Information Systems)  
-🌍 Passionate about Business Intelligence and Revenue Analytics  
-📊 Turning complex datasets into real-time insights that drive decisions  
-✈️ Industry experience: Airlines · Manufacturing · Real Estate  
+<blockquote>
+  <p align="center">
+    <em>"The goal is not to read a book, the goal is to become a reader."</em>
+  </p>
+  <p align="center">James Clear</p>
+</blockquote>
 
 
 ## 💼 Experience
 
-**Planning & Revenue Systems Analyst** @ Allegiant – *Commercial Data Science & Analytics*  
-**Business Intelligence Engineer Intern** @ Southwest Airlines – *Real Estate Analytics*  
-**AI Implementation Specialist (Capstone)** @ Alcon – *Competitive Intelligence*  
-**Technology Consultant Intern** @ Corning Inc. – *Global Supply Chain*  
-**Investment Analyst Intern** @ Savills – *Real Estate Investment*
+---
+
+- **Planning & Revenue Systems Analyst** @ [Allegiant Air](https://www.allegiantair.com/) – *Commercial Data Science & Analytics*
+- **Business Intelligence Engineer Intern** @ [Southwest Airlines](https://www.southwest.com/) – *Real Estate Analytics*
+- **AI Implementation Specialist (Capstone Project)** @ [Alcon](https://www.alcon.com/) – *Competitive Intelligence*
+- **Technology Consultant Intern** @ [Corning Inc.](https://www.corning.com/) – *Global Supply Chain*
+- **Investment Analyst Intern** @ [Savills](https://www.savills.com/) – *Real Estate Investment*
 
 
 ## ⚙️ Technical Skills  
-**Languages**: Python, SQL, VBA  
-**Databases**: PostgreSQL, MySQL, SQL Server  
-**Data Warehousing**: Redshift, BigQuery  
-**Cloud Platforms**: AWS, GCP  
-**Orchestration**: Apache Airflow  
-**BI Tools**: Power BI, Tableau, Alteryx, Excel  
-**Machine Learning**: Regression, Clustering, Time-Series Forecasting  
-**Financial Modeling**: Monte Carlo, DCF, Black-Scholes, Option Pricing Models
-
-
-
-## Skills
-
-
-<p align="left"><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" style="filter: brightness(0) invert(1);" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" style="filter: invert(45%) sepia(65%) saturate(650%) hue-rotate(330deg)" /></a></p>
-
-
+**Data Visualization**: Power BI, Tableau, Looker Studio, Streamlit  
+**Data Warehousing**: Snowflake, Amazon Redshift, Databricks, Supabase, DuckDB  
+**Data Processing**: PySpark, Apache Spark, Alteryx, dbt Core  
+**Orchestration**: Apache Airflow, Dagster  
+**Cloud Platforms**: AWS (S3, Athena, Lambda, SQS, EventBridge, Step Functions)  
+**DevOps & Tools**: Docker, Git, GitHub Actions, Jenkins, Linux
 
 ## 📈 GitHub Stats
 
@@ -62,4 +55,3 @@
 ```yaml
 Email: hado1802@gmail.com
 Linkedin: linkedin.com/in/HaDo1802
-
