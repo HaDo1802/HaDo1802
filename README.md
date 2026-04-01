@@ -28,10 +28,10 @@
 
 ---
 
-- **Planning & Revenue Systems Analyst** @ [Allegiant Air](https://www.allegiantair.com/) – *Commercial Data Science & Analytics*
-- **Business Intelligence Engineer Intern** @ [Southwest Airlines](https://www.southwest.com/) – *Real Estate Analytics*
+- **Data Analytics Engineer** @ [Allegiant Air](https://www.allegiantair.com/) – *Commercial Data Science & Analytics*
+- **Data Scientist Intern** @ [Southwest Airlines](https://www.southwest.com/) – *Real Estate Analytics*
 - **AI Implementation Specialist (Capstone Project)** @ [Alcon](https://www.alcon.com/) – *Competitive Intelligence*
-- **Technology Consultant Intern** @ [Corning Inc.](https://www.corning.com/) – *Global Supply Chain*
+- **BI Engineer Intern** @ [Corning Inc.](https://www.corning.com/) – *Global Supply Chain*
 - **Investment Analyst Intern** @ [Savills](https://www.savills.com/) – *Real Estate Investment*
 
 
