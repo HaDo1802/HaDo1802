@@ -8,7 +8,7 @@
       <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="90" alt="Decorative animation" />
     </td>
     <td align="center" width="70%">
-      <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=2500&pause=999999&color=111827&center=true&vCenter=true&width=180&height=44&lines=Hi+there+%F0%9F%91%8B" alt="Hi there" /> I'm Ha Do <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="40px" alt="Animated icon" /></h1>
+      <h1 align="center">Hi there 👋, I'm Ha Do <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="40px" alt="Animated icon" /></h1>
     </td>
     <td align="right" width="15%">
       <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="90" alt="Decorative animation" />
