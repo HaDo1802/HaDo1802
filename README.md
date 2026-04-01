@@ -43,10 +43,12 @@
 **Cloud Platforms**: AWS (S3, Athena, Lambda, SQS, EventBridge, Step Functions)  
 **DevOps & Tools**: Docker, Git, GitHub Actions, Terraform, Jenkins, Linux
 
-## 📈 GitHub Stats
+## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=HaDo1802&theme=dark&hide_border=true&card_width=820" alt="GitHub streak stats" />
+  <a href="https://github.com/HaDo1802">
+    <img src="https://img.shields.io/badge/View%20Live%20Contributions%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub contributions" />
+  </a>
 </p>
 
 
