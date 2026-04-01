@@ -41,7 +41,7 @@
 **Data Processing**: PySpark, Apache Spark, Alteryx, dbt Core  
 **Orchestration**: Apache Airflow, Dagster  
 **Cloud Platforms**: AWS (S3, Athena, Lambda, SQS, EventBridge, Step Functions)  
-**DevOps & Tools**: Docker, Git, GitHub Actions, Jenkins, Linux
+**DevOps & Tools**: Docker, Git, GitHub Actions, Terraform, Jenkins, Linux
 
 ## 📈 GitHub Stats
 
