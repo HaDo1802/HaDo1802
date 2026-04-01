@@ -2,19 +2,7 @@
   <img src="https://github.com/AzmSurov/AzmSurov/raw/master/Rainbow.gif" width="100%" />
 </div>
 
-<table width="100%">
-  <tr>
-    <td align="left" width="15%">
-      <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="90" alt="Decorative animation" />
-    </td>
-    <td align="center" width="70%">
-      <h1 align="center">Hi there 👋, I'm Ha Do <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="40px" alt="Animated icon" /></h1>
-    </td>
-    <td align="right" width="15%">
-      <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="90" alt="Decorative animation" />
-    </td>
-  </tr>
-</table>
+<h1 align="center">Hi there 👋, I'm Ha Do <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="40px" alt="Animated icon" /></h1>
 
 <p align="center">
   <a href="mailto:hado1802@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -33,6 +21,7 @@
   <p align="center">James Clear</p>
 </blockquote>
 
+
 ## 💼 Experience
 
 - **Data Analytics Engineer** @ [Allegiant Air](https://www.allegiantair.com/) – *Commercial Data Science & Analytics*
@@ -40,6 +29,10 @@
 - **AI Implementation Specialist (Capstone Project)** @ [Alcon](https://www.alcon.com/) – *Competitive Intelligence*
 - **BI Engineer Intern** @ [Corning Inc.](https://www.corning.com/) – *Global Supply Chain*
 - **Investment Analyst Intern** @ [Savills](https://www.savills.com/) – *Real Estate Investment*
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Section divider" />
+</p>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="28" alt="Technical skills icon" /> Technical Skills  
 **Data Visualization**: Power BI, Tableau, Looker Studio, Streamlit  
@@ -49,10 +42,18 @@
 **Cloud Platforms**: AWS (S3, Athena, Lambda, SQS, EventBridge, Step Functions)  
 **DevOps & Tools**: Docker, Git, GitHub Actions, Terraform, Jenkins, Linux
 
-## 📈 GitHub Stats
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Section divider" />
+</p>
+
+## <img src="https://user-images.githubusercontent.com/74038190/235223604-c9f38e6d-e9df-4608-abeb-ae7fbdf46bfd.gif" width="28" alt="GitHub stats icon" /> GitHub Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=HaDo1802&theme=dark&hide_border=true&card_width=820" alt="GitHub streak stats" />
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Section divider" />
 </p>
 
 ## 📫 Connect with Me
