@@ -56,7 +56,3 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Section divider" />
 </p>
 
-## 📫 Connect with Me
-
-- Email: [hado1802@gmail.com](mailto:hado1802@gmail.com)
-- Linkedin: [linkedin.com/in/HaDo1802](https://linkedin.com/in/HaDo1802)
