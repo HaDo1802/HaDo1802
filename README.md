@@ -49,7 +49,7 @@
 ## <img src="https://user-images.githubusercontent.com/74038190/235223604-c9f38e6d-e9df-4608-abeb-ae7fbdf46bfd.gif" width="28" alt="GitHub stats icon" /> GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=HaDo1802&theme=dark&hide_border=true&card_width=820" alt="GitHub streak stats" />
+  <img src="https://streak-stats.demolab.com?user=HaDo1802&theme=dark&hide_border=true&card_width=820&v=2" alt="GitHub streak stats" />
 </p>
 
 <p align="center">
